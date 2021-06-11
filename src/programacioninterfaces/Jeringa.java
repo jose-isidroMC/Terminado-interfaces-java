@@ -1,6 +1,6 @@
 package programacioninterfaces;
 
-public abstract class Jeringa implements Herramienta {
+public  class Jeringa implements Herramienta {
 
 	@Override
 	public String getNombre() {
